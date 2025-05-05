@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Adicionar Novo Carro</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Adicionar Novo Carro</h1>
+        <form action="http://localhost:3000/adicionar-carro" method="POST">
+            <div class="input-group">
+                <label for="nome">Nome Do Carro:</label>
+                <input type="text" name="nome" id="novatarefa" required placeholder="Digite o nome do carro">
+            </div>
+
+            <div class="input-group">
+                <label for="desc">Descrição:</label>
+                <input type="text" name="desc" id="novatarefa" required placeholder="Digite a descrição">
+            </div>
+
+            <div class="input-group">
+                <label for="url_foto">URL da Foto:</label>
+                <input type="text" id="novatarefa" name="url_foto" required placeholder="Digite a URL da foto">
+            </div>
+
+            <div class="input-group">
+                <label for="url_video">URL do Vídeo:</label>
+                <input type="text" id="novatarefa" name="url_video" required placeholder="Digite a URL do vídeo">
+            </div>
+
+            <div class="input-group">
+                <label for="latitude">Latitude:</label>
+                <input type="text" id="novatarefa" name="latitude" required placeholder="Digite a latitude">
+            </div>
+
+            <div class="input-group">
+                <label for="longitude">Longitude:</label>
+                <input type="text" id="novatarefa" name="longitude" required placeholder="Digite a longitude">
+            </div>
+
+            <button id="Adicionar" type="submit">Adicionar Carro</button>
+        </form>
+    </div>
+</body>
+</html>

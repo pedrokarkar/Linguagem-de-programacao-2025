@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "quantProdutos": "10",
+        "valor": 100
+    },
+    {
+        "id": 2,
+        "quantProdutos": "7",
+        "valor": 30
+    },
+    {
+        "id": 3,
+        "quantProdutos": "5",
+        "valor": 50
+    },
+    {
+        "id": 4,
+        "quantProdutos": "4",
+        "valor": 40
+    },
+    {
+        "id": 5,
+        "quantProdutos": "1",
+        "valor": 10
+    }
+]

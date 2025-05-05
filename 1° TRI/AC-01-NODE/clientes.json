@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "nome": "Ana Paula",
+        "email": "aninha@hotmail.com"
+    },
+    {
+        "id": 2,
+        "nome": "Paulete",
+        "email": "paulete@gmail.com"
+    },
+    {
+        "id": 3,
+        "nome": "Paula santos",
+        "email": "paula@hotmail.com"
+    },
+    {
+        "id": 4,
+        "nome": "Cuca cabelos",
+        "email": "cuca@hotmail.com"
+    },
+    {
+        "id": 5,
+        "nome": "Mica Guey",
+        "email": "micaguey@hotmail.com"
+    }
+]

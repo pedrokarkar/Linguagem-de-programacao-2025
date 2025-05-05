@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "nome": "Cereais"
+    },
+    {
+        "id": 2,
+        "nome": "Proteína"
+    },
+    {
+        "id": 3,
+        "nome": "Leite"
+    },
+    {
+        "id": 4,
+        "nome": "Raízes"
+    },
+    {
+        "id": 5,
+        "nome": "Frutas"
+    }
+]

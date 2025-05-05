@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "nome": "Caixa de leite",
+        "preço": 10
+    },
+    {
+        "id": 2,
+        "nome": "agua 510ml",
+        "preço": 2
+    },
+    {
+        "id": 3,
+        "nome": "Amido de milho",
+        "preço": 19
+    },
+    {
+        "id": 4,
+        "nome": "Cadeira plastica",
+        "preço": 20
+    },
+    {
+        "id": 5,
+        "nome": "bola quadrada",
+        "preço": 1000
+    }
+]
